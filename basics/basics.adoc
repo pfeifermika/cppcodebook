@@ -1,0 +1,10 @@
+= C/C++ Basics
+
+== Default Template
+
+[source, c++]
+----
+include::template.cpp[tag=template]
+----
+
+

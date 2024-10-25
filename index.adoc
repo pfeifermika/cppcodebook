@@ -1,0 +1,4 @@
+= Codebook
+:toc: left
+
+include::basics/basics.adoc[leveloffset=+1]
